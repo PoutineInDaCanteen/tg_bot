@@ -1,0 +1,3 @@
+a = "Egor"
+b = a
+print(a, "Egor")
